@@ -11,3 +11,5 @@ Here is a quick preview for my version of Home Page
 
 ![wewfwef](https://user-images.githubusercontent.com/40629789/144722146-722bbd9e-1493-4d66-9d22-512c0605e85d.png)
 
+
+Link vercel https://spotify-nextjs-app-d46t1eet9-trungtrung-art.vercel.app/
